@@ -1,0 +1,7 @@
+// Script
+scriptparsetree,scripts\fanatic\ww2\ww2_power_switch.gsc
+
+// Anims
+rawfile,animtrees/ww2_power_switch_anims.atr
+xanim,circuit_breaker_dial_turn_on
+xanim,circuit_breaker_dial_standby
